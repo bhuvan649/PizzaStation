@@ -17,7 +17,7 @@ A fully functional pizza ordering website built using **React.js** and **Tailwin
 ---
 
 ## 📁 Project Structure
-
+```
 pizza-app/
 ├── public/
 │ └── images/ # Images for pizzas
@@ -31,7 +31,7 @@ pizza-app/
 ├── db.json # JSON Server mock API
 ├── tailwind.config.js
 └── README.md
-
+```
 
 ---
 
@@ -43,46 +43,49 @@ pizza-app/
    cd pizza-order-app
 
 2. **Install dependencies:**
+    ```bash
     npm install
 
 3. **Start JSON server:**
+    ```bash
     npx json-server --watch db.json --port 5000
 
 4. **Start the React app:**
+    ```bash
     npm run dev   # or npm start
 
-🌐 Available Pages
-/ → Home Page
+🌐  Available Pages
+    / → Home Page
 
-/products → Browse Pizza Items
+    /products → Browse Pizza Items
 
-/cart → View Cart
+    /cart → View Cart
 
-/order → Place Final Order
+    /order → Place Final Order
 
 📦 Tech Stack
-Frontend: React.js, Tailwind CSS
+    Frontend: React.js, Tailwind CSS
 
-Routing: React Router DOM
+    Routing: React Router DOM
 
-State Management: React Context API
+    State Management: React Context API
 
-Backend: JSON Server (mock REST API)
+    Backend: JSON Server (mock REST API)
 
-Persistence: localStorage
+    Persistence: localStorage
 
 📝 Todo / Enhancements
-✅ Size/Quantity selection
+    ✅ Size/Quantity selection
 
-✅ Order form reset on submit
+    ✅ Order form reset on submit
 
-✅ Cart total live update
+    ✅ Cart total live update
 
-🚧 Coupon code feature
+    🚧 Coupon code feature
 
-🚧 Real payment gateway (Stripe/Razorpay)
+    🚧 Real payment gateway (Stripe/Razorpay)
 
-🚧 Firebase / MongoDB backend integration
+    🚧 Firebase / MongoDB backend integration
 
 👨‍💻 Author
 Made with ❤️ by Bhuvan
