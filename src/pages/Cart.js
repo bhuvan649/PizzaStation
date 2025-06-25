@@ -34,7 +34,7 @@ const Cart = () => {
                     <span>{item.quantity}</span>
                     <button onClick={() => incrementQuantity(index)} className="px-2 py-1 bg-gray-200 rounded">+</button>
                   </div>
-                  <button onClick={() => removeFromCart(index)} className="text-red-500 mt-2 text-sm underline">Remove</button>
+                  <button onClick={() => removeFromCart(index)} className="mt-4 bg-orange-500 hover:bg-orange-600 text-white px-3 py-1 rounded">Remove</button>
                 </div>
               </div>
             ))}
