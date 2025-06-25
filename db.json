@@ -6,7 +6,7 @@
       "description": "Classic cheese pizza with tomato sauce and mozzarella.",
       "image": "/images/margherita.jpg",
       "price": 199,
-      "size": "M"
+      "sizes": ["S", "M", "L"]
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "description": "Loaded with veggies like onion, capsicum, and corn.",
       "image": "/images/veg.jpg",
       "price": 599,
-      "size": "L"
+      "sizes": ["S", "M", "L"]
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "description": "Spicy paneer with capsicum and red paprika.",
       "image": "/images/peppy-paneer.jpg",
       "price": 359,
-      "size": "M"
+      "sizes": ["S", "M", "L"]
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "description": "Mexican herbs with onion, capsicum, tomato & jalapeno.",
       "image": "/images/mexican.jpg",
       "price": 449,
-      "size": "L"
+      "sizes": ["S", "L"]
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "description": "Veggie overload with onion, capsicum, mushroom, and corn.",
       "image": "/images/deluxe.jpg",
       "price": 499,
-      "size": "L"
+      "sizes": ["S", "M", "L"]
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "description": "Loaded with all available veggies and extra cheese.",
       "image": "/images/extravaganza.jpg",
       "price": 649,
-      "size": "L"
+      "sizes": ["S", "M", "L"]
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "description": "Sweet corn and 100% real mozzarella cheese.",
       "image": "/images/corn.jpg",
       "price": 299,
-      "size": "S"
+      "sizes": ["S", "M", "L"]
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "description": "Indian twist with creamy makhani sauce and paneer.",
       "image": "/images/paneer-makhani.jpg",
       "price": 389,
-      "size": "M"
+      "sizes": ["S", "M", "L"]
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "description": "Twice the cheese on a crispy thin crust.",
       "image": "/images/double-cheese.jpg",
       "price": 279,
-      "size": "M"
+      "sizes": ["S", "M", "L"]
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "description": "Golden corn, black olives, capsicum, and red paprika.",
       "image": "/images/paradise.jpg",
       "price": 399,
-      "size": "M"
+      "sizes": ["S", "M" ]
     }
   ]
 }
