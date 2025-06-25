@@ -54,7 +54,7 @@ pizza-app/
     ```bash
     npm run dev   # or npm start
 
-🌐  Available Pages
+##  🌐  Available Pages
     / → Home Page
 
     /products → Browse Pizza Items
@@ -63,7 +63,7 @@ pizza-app/
 
     /order → Place Final Order
 
-📦 Tech Stack
+##  📦 Tech Stack
     Frontend: React.js, Tailwind CSS
 
     Routing: React Router DOM
@@ -74,7 +74,7 @@ pizza-app/
 
     Persistence: localStorage
 
-📝 Todo / Enhancements
+##  📝 Todo / Enhancements
     ✅ Size/Quantity selection
 
     ✅ Order form reset on submit
@@ -87,7 +87,7 @@ pizza-app/
 
     🚧 Firebase / MongoDB backend integration
 
-👨‍💻 Author
-Made with ❤️ by Bhuvan
+##  👨‍💻 Author
+      Made with ❤️ by Bhuvan
 
 
