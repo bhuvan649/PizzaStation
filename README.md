@@ -34,6 +34,9 @@ pizza-app/
 ```
 
 ---
+## 🖼️ Demo
+
+![PizzaStation Screenshot](./main_ui.png)
 
 ## ⚙️ Installation
 
